@@ -1,5 +1,6 @@
 # Machine-learning-modelling-using-SPSS
-This a project I had done in my MSc at the University of Kent, where I implemented predictive analysis using SPSS for Future Sales forecasting.
+I had done this project in my MSc at the University of Kent, where I implemented predictive analysis using SPSS for Future Sales forecasting.
 
-This is the main Read Me File which contains all the information about the project on how it was executed using the SPSS.
+This is the main Read Me File which contains all the information about the project and how it was executed using the SPSS.
 
+The paper aims to improve the accuracy of future sales forecasts. The methods used in the paper are the Augmented Dickey-Fuller (ADF) test and the Kwiatkowski-PhillipsSchmidt-Shin (KPSS) test to check the stationarity of the time series data, and Autoregressive Integrated Moving Average (ARIMA) model for forecasting. The ADF and KPSS tests are used to check the stationarity of the time series data. Stationarity is an important assumption in time series analysis and forecasting. A stationary time series has a constant mean and variance over time, and the values of the series are at different time points and they are not related to each other. The ADF and KPSS tests help to determine whether a time series is stationary or not. The ARIMA model is a popular method for time series forecasting. Overall, the combination of these methods can help improve the accuracy of sales forecasts by ensuring that the data is stationary and using a model that considers seasonal patterns.
